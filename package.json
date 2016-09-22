@@ -1,5 +1,5 @@
 {
-  "name": "integration-vero",
+  "name": "@astronomerio/integration-vero",
   "version": "1.1.1",
   "private": true,
   "description": "Vero server-side integration",
